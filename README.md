@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pearl Shah
--  I'm in 2nd year Btech in Electronics and Communication Engineering
+-  I'm in 3rd year Btech in Electronics and Communication Engineering
 - 👀 I’m interested in Web development and Signal Processing areas
 - 🌱 I’m currently learning javascript for backend developing and working on advanced python projects
 - 📫 How to reach me- pearl.shah@students.iiit.ac.in
